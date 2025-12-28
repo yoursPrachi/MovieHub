@@ -1,0 +1,4 @@
+{
+  "buildCommand": "cd admin-react && npm install && npm run build",
+  "outputDirectory": "frontend"
+}
